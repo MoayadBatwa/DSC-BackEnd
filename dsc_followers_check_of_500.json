@@ -2,11 +2,12 @@
   "target_account": "DSC_KAU",
   "target_user_id": "1608405795707752448",
   "total_commenters": 2,
-  "total_followers_checked": 1408,
+  "total_followers_checked": 500,
   "followers": [
-    "silic45",
     "11ttz"
   ],
-  "non_followers": [],
+  "non_followers": [
+    "silic45"
+  ],
   "unknown": []
 }
