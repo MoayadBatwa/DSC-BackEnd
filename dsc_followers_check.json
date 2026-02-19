@@ -1,12 +1,19 @@
 {
   "target_account": "DSC_KAU",
   "target_user_id": "1608405795707752448",
-  "total_commenters": 2,
+  "total_commenters": 8,
   "total_followers_checked": 1408,
   "followers": [
+    "11ttz",
     "silic45",
-    "11ttz"
+    "ax1ii",
+    "Azozrocks",
+    "Sa_i29",
+    "jumanji_writes",
+    "ar_xg6"
   ],
-  "non_followers": [],
+  "non_followers": [
+    "nom8889"
+  ],
   "unknown": []
 }
